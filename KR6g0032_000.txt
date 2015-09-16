@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 蓮華面經
+#+DATE: 2015-08-30 20:04:50.787490
+#+PROPERTY: JUAN 0
